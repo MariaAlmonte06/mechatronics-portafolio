@@ -115,7 +115,7 @@ export default function Home() {
       title: "Ferrari SF-26 Interactive Steering Wheel",
       tag: "Motorsport Packaging / CAD",
       status: "COMPLETED",
-      modelPath: "/models/SF-26_Steering_Wheel.glb",
+      modelPath: "/models/SF-26_Steering_Wheel_opt.glb",
       viewerLabel: "SF-26 F1 STEERING WHEEL",
       desc: "Advanced surface modeling and mechanical assembly of an F1 steering wheel. Features ergonomic grips, rotary switch layout, rear shift paddles, integrated display packaging, and carbon fiber texturing.",
       tools: [
